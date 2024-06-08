@@ -11,12 +11,18 @@ git clone https://github.com/abhishek-sanwal/Email_Authentication_DRF.git
 
 ```
 
-### In project root directory run this command.
+### In project root directory run this command. This will run the app in a docker container
 
 ```
 
 docker-compose up
 
+```
+
+### To remove the container use this commad
+
+```
+docker-compose down
 ```
 
 ### Now project is running at localhost 8000 port. You can change port number if required in docker-compose.yaml file.
