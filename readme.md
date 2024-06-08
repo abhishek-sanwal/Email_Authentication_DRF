@@ -1,6 +1,6 @@
 # Django Rest framework Custom Authentication using Email and password.
 
-## This project provided custom login signup functionality using drf django rest framework in the form of rest apis.
+## This project provided custom login signup functionality using drf django rest framework in the form of rest apis. It uses jwt token to validate users and sign them in.
 
 ## How to Run?
 
